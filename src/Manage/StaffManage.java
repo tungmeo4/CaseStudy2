@@ -197,7 +197,7 @@ public class StaffManage {
     }
 
     public void SortStaff(){
-        Sort sort=new Sort();
+        Sort sort = new Sort();
         list.sort(sort);
 
     }
